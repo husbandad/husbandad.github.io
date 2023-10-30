@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "_여긴달이너무밝아_"
+title                    : "_달이밝아눈이부셔_"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "snood"
+name                     : "lalune"
 description              : "An amazing website."
 url                      : "https://husbandad.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
