@@ -9,9 +9,9 @@ author_profile: false
 Summary: Paris is one of the most beautiful cities in the world and is a great destination for a family vacation. This blog post will provide you with a list of the top 10 places you must visit when traveling to Paris with your kids. We will provide you with the address, activities recommendations, opening and closing hours, entrance fee, and other helpful information. 
 
 ##1. Eiffel Tower
-Address: 5 Avenue Anatole France, 75007 Paris, France 
-Opening Hours: 9:00am - 11:45pm 
-Entrance Fee: €17.50 
+**- Address:** 5 Avenue Anatole France, 75007 Paris, France 
+**- Opening Hours:** 9:00am - 11:45pm 
+**- Entrance Fee:** €17.50 
 
 The Eiffel Tower is one of the most iconic landmarks in the world and a must-see when visiting Paris with your kids. The tower offers breathtaking views of the city and is a great place to take pictures. Kids will love the interactive displays and educational activities available at the tower. There are also several restaurants and cafes located at the tower. 
 
