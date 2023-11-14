@@ -5,7 +5,8 @@ categories: Travel
 tag: [Renaissance, Adventure, Castles, France, Gothic, Explore, Baroque, TopCastlesYouMustVisitWhenTravelingToFrance, Travel, Vacation, History]
 toc: false
 author_profile: false
----Traveling to France is an amazing experience, and it is made even more special when you get to explore the beautiful castles that are scattered throughout the country. From the grand Château de Chambord to the stunning Château de Chenonceau, here are the top 10 castles you must visit when traveling to France. 
+---
+Traveling to France is an amazing experience, and it is made even more special when you get to explore the beautiful castles that are scattered throughout the country. From the grand Château de Chambord to the stunning Château de Chenonceau, here are the top 10 castles you must visit when traveling to France. 
 
 ##1. Château de Chambord 
 The Château de Chambord is a grand castle located in the Loire Valley, France. It was built in the early 16th century by King Francis I as a hunting lodge. The castle is renowned for its French Renaissance architecture, and it is one of the most recognizable castles in the world. It is also the largest château in the Loire Valley. 
