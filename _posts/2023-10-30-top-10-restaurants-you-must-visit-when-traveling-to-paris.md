@@ -8,7 +8,7 @@ author_profile: false
 ---
 **Summary:** Are you planning a trip to Paris? This blog post will provide you with the top 10 restaurants you must visit when traveling to Paris. From traditional French cuisine to modern fusion, this list will provide you with the best restaurants in the city. Each restaurant is accompanied by its address, menu recommendations, and other helpful information such as opening and closing hours.
 
-##1. Le Petit Chatelet
+## 1. Le Petit Chatelet
 
 This cozy restaurant is located in the heart of Paris and offers traditional French cuisine. The menu includes a variety of dishes such as steak tartare, roasted chicken, and ratatouille. The atmosphere is warm and inviting, and the staff is friendly and attentive.
 
@@ -24,7 +24,7 @@ This cozy restaurant is located in the heart of Paris and offers traditional Fre
 - Saturday: 7:00pm-10:00pm
 - Sunday: Closed
 
-##2. Le Comptoir de la Gastronomie
+## 2. Le Comptoir de la Gastronomie
 
 This restaurant is a must-visit for foodies. It offers a variety of dishes from around the world, including French, Italian, and Asian cuisine. The atmosphere is lively and the staff is knowledgeable and friendly.
 
@@ -40,7 +40,7 @@ This restaurant is a must-visit for foodies. It offers a variety of dishes from 
 - Saturday: 7:00pm-10:00pm
 - Sunday: Closed
 
-##3. L'Avenue
+## 3. L'Avenue
 
 This modern restaurant offers a unique fusion of French and international cuisine. The menu includes a variety of dishes such as seared tuna, beef tartare, and roasted lamb. The atmosphere is chic and the staff is friendly and attentive.
 
@@ -56,7 +56,7 @@ This modern restaurant offers a unique fusion of French and international cuisin
 - Saturday: 7:00pm-10:00pm
 - Sunday: Closed
 
-##4. L'Atelier de Joel Robuchon
+## 4. L'Atelier de Joel Robuchon
 
 This Michelin-starred restaurant is a must-visit for foodies. The menu includes a variety of dishes such as foie gras, roasted duck, and beef tartare. The atmosphere is elegant and the staff is friendly and attentive.
 
@@ -72,7 +72,7 @@ This Michelin-starred restaurant is a must-visit for foodies. The menu includes 
 - Saturday: 7:00pm-10:00pm
 - Sunday: Closed
 
-##5. Le Grand Colbert
+## 5. Le Grand Colbert
 
 This classic restaurant is located in the heart of Paris and offers traditional French cuisine. The menu includes a variety of dishes such as steak tartare, roasted chicken, and ratatouille. The atmosphere is warm and inviting, and the staff is friendly and attentive.
 
@@ -88,7 +88,7 @@ This classic restaurant is located in the heart of Paris and offers traditional 
 - Saturday: 7:00pm-10:00pm
 - Sunday: Closed
 
-##6. Le Relais de l'Entrecote
+## 6. Le Relais de l'Entrecote
 
 This restaurant is a must-visit for steak lovers. The menu includes a variety of dishes such as steak tartare, steak frites, and roasted beef. The atmosphere is cozy and the staff is friendly and attentive.
 
@@ -104,7 +104,7 @@ This restaurant is a must-visit for steak lovers. The menu includes a variety of
 - Saturday: 7:00pm-10:00pm
 - Sunday: Closed
 
-##7. La Tour d'Argent
+## 7. La Tour d'Argent
 
 This classic restaurant is located in the heart of Paris and offers traditional French cuisine. The menu includes a variety of dishes such as steak tartare, roasted chicken, and ratatouille. The atmosphere is warm and inviting, and the staff is friendly and attentive.
 
@@ -120,7 +120,7 @@ This classic restaurant is located in the heart of Paris and offers traditional 
 - Saturday: 7:00pm-10:00pm
 - Sunday: Closed
 
-##8. Le Jules Verne
+## 8. Le Jules Verne
 
 This restaurant is located in the iconic Eiffel Tower and offers a unique fusion of French and international cuisine. The menu includes a variety of dishes such as seared tuna, beef tartare, and roasted lamb. The atmosphere is chic and the staff is friendly and attentive.
 
@@ -136,7 +136,7 @@ This restaurant is located in the iconic Eiffel Tower and offers a unique fusion
 - Saturday: 7:00pm-10:00pm
 - Sunday: Closed
 
-##9. Le Grand Vefour
+## 9. Le Grand Vefour
 
 This Michelin-starred restaurant is a must-visit for foodies. The menu includes a variety of dishes such as foie gras, roasted duck, and beef tartare. The atmosphere is elegant and the staff is friendly and attentive.
 
@@ -152,7 +152,7 @@ This Michelin-starred restaurant is a must-visit for foodies. The menu includes 
 - Saturday: 7:00pm-10:00pm
 - Sunday: Closed
 
-##10. Le Cinq
+## 10. Le Cinq
 
 This modern restaurant offers a unique fusion of French and international cuisine. The menu includes a variety of dishes such as seared tuna, beef tartare, and roasted lamb. The atmosphere is chic and the staff is friendly and attentive.
 
