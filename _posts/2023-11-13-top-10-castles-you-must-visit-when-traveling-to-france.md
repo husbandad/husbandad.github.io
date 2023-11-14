@@ -15,7 +15,7 @@ The Château de Chambord is a grand castle located in the Loire Valley, France. 
 **- How to get there: You can take a train from Paris to Blois and then take a bus to Chambord. 
 **- Opening and closing hours: 9:00am to 5:00pm 
 
-![Château de Chambord](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ch%C3%A2teau_de_Chambord_%28Loire%2C_France%29_%E2%80%93_June_2015_%281%29.jpg/800px-Ch%C3%A2teau_de_Chambord_%28Loire%2C_France%29_%E2%80%93_June_2015_%281%29.jpg)
+![Château de Chambord](https://cdn1.chambord.org/fr/wp-content/uploads/sites/2/2023/10/Drone-contrast-Chambord-2023-2-1-1180x550.jpg)
 
 ##2. Château de Chenonceau 
 The Château de Chenonceau is a beautiful castle located in the Loire Valley, France. It was built in the 16th century and is renowned for its French Renaissance architecture. It is one of the most popular castles in the world and is often referred to as the “Ladies’ Castle” due to its history of being owned by powerful women. 
