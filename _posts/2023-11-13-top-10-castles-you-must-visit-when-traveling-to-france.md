@@ -11,18 +11,18 @@ Traveling to France is an amazing experience, and it is made even more special w
 ##1. Château de Chambord 
 The Château de Chambord is a grand castle located in the Loire Valley, France. It was built in the early 16th century by King Francis I as a hunting lodge. The castle is renowned for its French Renaissance architecture, and it is one of the most recognizable castles in the world. It is also the largest château in the Loire Valley. 
 
-Address: 41250 Chambord, France 
-How to get there: You can take a train from Paris to Blois and then take a bus to Chambord. 
-Opening and closing hours: 9:00am to 5:00pm 
+**- Address: 41250 Chambord, France 
+**- How to get there: You can take a train from Paris to Blois and then take a bus to Chambord. 
+**- Opening and closing hours: 9:00am to 5:00pm 
 
 ![Château de Chambord](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ch%C3%A2teau_de_Chambord_%28Loire%2C_France%29_%E2%80%93_June_2015_%281%29.jpg/800px-Ch%C3%A2teau_de_Chambord_%28Loire%2C_France%29_%E2%80%93_June_2015_%281%29.jpg)
 
 ##2. Château de Chenonceau 
 The Château de Chenonceau is a beautiful castle located in the Loire Valley, France. It was built in the 16th century and is renowned for its French Renaissance architecture. It is one of the most popular castles in the world and is often referred to as the “Ladies’ Castle” due to its history of being owned by powerful women. 
 
-Address: 37150 Chenonceaux, France 
-How to get there: You can take a train from Paris to Tours and then take a bus to Chenonceau. 
-Opening and closing hours: 9:00am to 6:00pm 
+**- Address: 37150 Chenonceaux, France 
+**- How to get there: You can take a train from Paris to Tours and then take a bus to Chenonceau. 
+**- Opening and closing hours: 9:00am to 6:00pm 
 
 ![Château de Chenonceau](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ch%C3%A2teau_de_Chenonceau_%28Loire%2C_France%29_%E2%80%93_June_2015_%281%29.jpg/800px-Ch%C3%A2teau_de_Chenonceau_%28Loire%2C_France%29_%E2%80%93_June_2015_%281%29.jpg)
 
