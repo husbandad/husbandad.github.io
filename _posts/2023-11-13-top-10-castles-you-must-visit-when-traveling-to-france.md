@@ -29,9 +29,9 @@ The Château de Chenonceau is a beautiful castle located in the Loire Valley, Fr
 ##3. Château de Vincennes 
 The Château de Vincennes is a grand castle located in the eastern suburbs of Paris, France. It was built in the 14th century and is renowned for its French Gothic architecture. It is the largest castle in France and was once used as a royal residence. 
 
-Address: Avenue de Paris, 94300 Vincennes, France 
-How to get there: You can take the Metro Line 1 to the Château de Vincennes station. 
-Opening and closing hours: 10:00am to 6:00pm 
+**- Address: Avenue de Paris, 94300 Vincennes, France 
+**- How to get there: You can take the Metro Line 1 to the Château de Vincennes station. 
+**- Opening and closing hours: 10:00am to 6:00pm 
 
 ![Château de Vincennes](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ch%C3%A2teau_de_Vincennes_%28Vincennes%2C_France%29_%E2%80%93_June_2015_%281%29.jpg/800px-Ch%C3%A2teau_de_Vincennes_%28Vincennes%2C_France%29_%E2%80%93_June_2015_%281%29.jpg)
 
