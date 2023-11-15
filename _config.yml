@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "_달이밝아눈이부셔_"
+title                    : "_moon_bright_dazzle_"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "lalune"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "husbandad"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am husbandad living in the universe."
+  location         : "universe"
   email            :
   links:
     - label: "Email"
