@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "husbandad"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am husbandad living in the universe."
-  location         : "universe"
+  bio              : "Living in the universe."
+  location         : "Paris"
   email            :
   links:
     - label: "Email"
